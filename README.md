@@ -1,6 +1,5 @@
 # Hey!! 😄👋
 
-<hr>
 <h2>Who am I? 💬<br></br></h2>
 <div>The short answer: I am a tech-savvy young budding entrepreneur.</div>
 <div>Since I started my studies I love everything that happens on the web, especially the experimental stuff. </div>
@@ -14,7 +13,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vforsmann.vforsmann)
-<hr>
+<br></br>
 <h2>What am I working on at the moment? 🌱<br></br></h2>
 
 
