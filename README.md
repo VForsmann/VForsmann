@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/VForsmann/VForsmann/blob/main/OC.PNG?raw=true" alt="ObjectCode-Logo"/>
+  <img src="https://github.com/VForsmann/VForsmann/blob/main/VECTAR.PNG?raw=true" alt="ObjectCode-Logo"/>
 </p>
 
 <div align="center">
