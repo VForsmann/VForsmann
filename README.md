@@ -40,7 +40,7 @@
 
 <div align="center">
   <a target="_blank" href="https://www.vectar.tech/">Vectar</a>
-  <div>Vectar: Prepared for the future. It's clear to us that immersive technologies will change a lot.</div>
+  <div>Prepared for the future. It's clear to us that immersive technologies will change a lot.</div>
   <div> We want to shed light on this on a regular basis. To that end, we've built Vectar Magazine. </div>
   <div>Our suite includes useful tools to simplify the transition from 2D to 3D.</div>
 </div>
