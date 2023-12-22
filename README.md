@@ -18,13 +18,12 @@
 
 
 <p align="left">
- <a target="_blank" href="https://www.objectcode.de/produkt">  
+ <a target="_blank" href="https://www.objectcode.de/produkte/produktkonfigurator-software-k3-saas/">  
    <img width="100px" src="https://k3.objectcode.de/app/k3Logo.59f0f4273cb8a724c1d0a652e5448315.svg" alt="K3-Logo"/>
  </a>
 </p>
 
 <div align="left">
-  <a target="_blank" width="200px" href="https://www.objectcode.de/">K3</a>
   <div>First SaaS for 3d-configurators.</div>
   <div>Created in 2021.</div>
   <div>Funding from the German federal government.</div>
@@ -40,7 +39,6 @@
 </p>
 
 <div align="left">
-  <a target="_blank" width="200px" href="https://www.objectcode.de/">ObjectCode</a>
   <div>Conquering e-commerce with simple configurators.</div>
   <div>Many products cannot be explained on the web with simple means. Our configurators help. </div>
   <div>Thanks to advanced technologies like 3D and AR visualization. </div>
@@ -56,7 +54,6 @@
 </p>
 
 <div align="left">
-  <a target="_blank" href="https://www.vectar.tech/">Vectar</a>
   <div>Prepared for the future. It's clear to us that immersive technologies will change a lot.</div>
   <div> We want to shed light on this on a regular basis. To that end, we've built Vectar Magazine. </div>
   <div>Our suite includes useful tools to simplify the transition from 2D to 3D.</div>
